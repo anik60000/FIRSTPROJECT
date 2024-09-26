@@ -50,3 +50,15 @@
       float: none;
     }
   }
+
+.container{
+  display: flex;
+  justify-content: space-around;
+}
+body{
+  background-color:beige;
+}
+.header{
+background-color: bisque;
+}
+  
