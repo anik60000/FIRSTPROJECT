@@ -148,5 +148,12 @@ nav ul li a:hover {
 body {
   line-height: 1.6;
   background-color: #000; /* New background color */
-  color: #fff; /* Ensure text is readable */
+}
+.footer-content{
+  color: white;
+  text-align: center;
+}
+#about{
+  color: white;
+  text-align: center;
 }
